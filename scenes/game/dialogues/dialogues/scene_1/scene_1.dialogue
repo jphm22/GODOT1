@@ -1,0 +1,13 @@
+~ dialogue_1
+
+Selena la Ballena: ¡Hola aventurero! ¿qué te trae por estos rumbos?
+Pirata Malaplata: Necesito abrir la puerta. ¿Puedes ayudarme?
+Selena la Ballena: Sí, claro. Sólo tienes que presionar la tecla [A] y la puerta se abrirá..
+
+- Gracias, ¡lo intentaré!
+  => dialogue_2
+
+
+~ dialogue_2
+Selena la Ballena: ¡Bueno nos vemos!
+=> END
